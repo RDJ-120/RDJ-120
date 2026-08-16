@@ -13,7 +13,8 @@ Software Developer and Security Enthusiast focusing on low-level system tooling,
 * **NetCat:** Terminal-native network diagnostic tool built with raw Python socket interfaces.
 * **SSmap:** Shell wrapper for filtering and colorizing Nmap execution outputs.
 * **DNS-recon:** Automated DNS reconnaissance and record enumeration script in Python.
-* **Hybrid-Encryption & Multi-Encryption:** Cryptographic tools featuring AES-256-CBC, RSA key handling, and hashing primitives.
+* **Hybrid-Encryption:** Hybrid cryptographic tool combining RSA asymmetric encryption and AES-256-CBC in JavaScript.
+* **Multi-Encryption:** Python utility for multi-algorithm symmetric encryption and hash hashing functions.
 
 ## Contact & Links
 
